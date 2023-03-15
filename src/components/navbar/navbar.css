@@ -10,6 +10,11 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+   
+}
+
+.gpt__navbar-links a{
+    margin-right: 1.5rem;
 }
 
 .gpt__navbar-links_logo{
